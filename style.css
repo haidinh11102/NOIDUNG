@@ -1,0 +1,8 @@
+/* cho khối ra giữa */
+.test{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;   
+}
